@@ -118,6 +118,7 @@ tesella/
 ```
 ### Teknik Borçlar
 **1-Online ve Çok Oyunculu Sistem**
+
 **2-Parçaların birbirleri ile ayrı ayrı birleştirilebilmesi**
 
 
