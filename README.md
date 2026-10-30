@@ -116,3 +116,12 @@ tesella/
 ├── CMakeLists.txt               # CMake derleme yapılandırma dosyası
 └── README.md                    # Proje dokümantasyonu
 ```
+### Teknik Borçlar
+**1-Online ve Çok Oyunculu Sistem**
+**2-Parçaların birbirleri ile ayrı ayrı birleştirilebilmesi**
+
+
+
+
+
+
